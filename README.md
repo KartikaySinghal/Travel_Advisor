@@ -12,6 +12,6 @@ In this project, I've learn:
 2. Creating a User Interface using Material UI
 3. Working with Google Maps API
 4. And most importantly fetching data from unlimited sources using RapidAPI
-5. Essentially, you'll become the master of working with APIs
+
 
 
